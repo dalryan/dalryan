@@ -4,4 +4,4 @@ Software developer passionate about well-crafted software, good documentation, a
 
 - Currently working as a staff engineer in Oslo.
 - Currently working mostly with microservices, Go, and k8s.
-- Might be too dumb for Rust, jury is still out.
+- Haven't given up on rust yet 🦀
